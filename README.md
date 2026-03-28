@@ -1,2 +1,2 @@
 # furniture-website
-this is my 3 git repository
+this is my 3rd git repository
